@@ -1,1 +1,2 @@
 # sia-agent
+This is an AI agent based on the Sia protocol and serves as a concrete use case for plugin-sia. It introduces a powerful AI Agent to the Sia community, enabling natural language interaction with Sia ecosystem products to simplify operations. Soon, it will support interactions with hostd, walletd, and indexd, offering features such as file storage, retrieval, wallet management, and transaction queries. Additionally, it supports multiple platforms like Discord, Telegram, and X, providing users with convenient interaction options.
